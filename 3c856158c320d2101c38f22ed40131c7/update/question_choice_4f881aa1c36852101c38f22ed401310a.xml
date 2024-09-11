@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Drop off location?">5b2852a1c36852101c38f22ed4013154</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 00:07:36</sys_created_on>
+        <sys_id>4f881aa1c36852101c38f22ed401310a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terminal C</sys_name>
+        <sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope>
+        <sys_update_name>question_choice_4f881aa1c36852101c38f22ed401310a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 00:07:36</sys_updated_on>
+        <text>Terminal C</text>
+        <value>terminal_c</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=4f881aa1c36852101c38f22ed401310a"/>
+</record_update>
