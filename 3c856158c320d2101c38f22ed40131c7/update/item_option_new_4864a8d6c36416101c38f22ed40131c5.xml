@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>pick_up_date_time</field>
+        <field>short_description</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -37,17 +37,17 @@
         <lookup_value/>
         <macro/>
         <macroponent/>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>date_and_time</name>
-        <order>600</order>
+        <name>short_description</name>
+        <order>700</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Date and Time</question_text>
+        <question_text>Additional Comments</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-09-10 00:08:41</sys_created_on>
-        <sys_id>74985aa1c36852101c38f22ed40131e8</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Date and Time</sys_name>
+        <sys_created_on>2024-09-11 23:36:31</sys_created_on>
+        <sys_id>4864a8d6c36416101c38f22ed40131c5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Additional Comments</sys_name>
         <sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope>
-        <sys_update_name>item_option_new_74985aa1c36852101c38f22ed40131e8</sys_update_name>
+        <sys_update_name>item_option_new_4864a8d6c36416101c38f22ed40131c5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-09-12 00:00:02</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>10</type>
+        <type>2</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=74985aa1c36852101c38f22ed40131e8"/>
-    <fx_price action="delete_multiple" query="id=74985aa1c36852101c38f22ed40131e8"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=4864a8d6c36416101c38f22ed40131c5"/>
+    <fx_price action="delete_multiple" query="id=4864a8d6c36416101c38f22ed40131c5"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>74985aa1c36852101c38f22ed40131e8</id>
+        <id>4864a8d6c36416101c38f22ed40131c5</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-09-10 00:08:42</sys_created_on>
-        <sys_id>03c85ea1c36852101c38f22ed40131ad</sys_id>
+        <sys_created_on>2024-09-11 23:36:31</sys_created_on>
+        <sys_id>1b94acd6c36416101c38f22ed40131a2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-10 00:08:42</sys_updated_on>
+        <sys_updated_on>2024-09-11 23:36:31</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>74985aa1c36852101c38f22ed40131e8</id>
+        <id>4864a8d6c36416101c38f22ed40131c5</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-09-10 00:08:42</sys_created_on>
-        <sys_id>c3c85ea1c36852101c38f22ed40131ac</sys_id>
+        <sys_created_on>2024-09-11 23:36:31</sys_created_on>
+        <sys_id>c794acd6c36416101c38f22ed40131a1</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-10 00:08:42</sys_updated_on>
+        <sys_updated_on>2024-09-11 23:36:31</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
