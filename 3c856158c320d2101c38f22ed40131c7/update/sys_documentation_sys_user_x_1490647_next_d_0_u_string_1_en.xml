@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_1490647_next_d_0_u_string_1" label="Short Description" language="en" table="sys_user">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_1490647_next_d_0_u_string_1</element>
+            <help/>
+            <hint/>
+            <label>Short Description</label>
+            <language>en</language>
+            <name>sys_user</name>
+            <plural>Short Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-08 23:05:49</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Short Description</sys_name>
+            <sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope>
+            <sys_update_name>sys_documentation_sys_user_x_1490647_next_d_0_u_string_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-08 23:05:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

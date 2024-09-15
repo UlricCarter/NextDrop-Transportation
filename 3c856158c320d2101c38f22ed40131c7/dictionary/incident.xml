@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" db_object_id="3a248d7b8d820210d0ad51af41866369" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
+        <element label="ASAP" max_length="40" name="x_1490647_next_d_0_asap" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Drop Off Location" max_length="40" name="x_1490647_next_d_0_drop_off_location" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Terminal A" sequence="0" value="Terminal A"/>
+                <element inactive_on_update="false" label="Terminal B" sequence="1" value="Terminal B"/>
+                <element inactive_on_update="false" label="Terminal C" sequence="2" value="Terminal C"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Pick Up Date" max_length="40" name="x_1490647_next_d_0_pick_up_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Pick Up Date  Time" max_length="40" name="x_1490647_next_d_0_pick_up_date_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Pick Up Location" max_length="100" name="x_1490647_next_d_0_pick_up_location" type="string"/>
+        <element label="Pick Up Time" max_length="40" name="x_1490647_next_d_0_pick_up_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Pick Up Type" max_length="40" name="x_1490647_next_d_0_pick_up_type" type="glide_date_time"/>
+    </element>
+</database>

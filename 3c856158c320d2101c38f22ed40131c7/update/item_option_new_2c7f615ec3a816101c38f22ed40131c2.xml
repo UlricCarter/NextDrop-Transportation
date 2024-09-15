@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="NextDrop (Test)">2c4ee11ec3a816101c38f22ed4013163</cat_item>
+        <cat_item display_value="Request a NextDrop">2c4ee11ec3a816101c38f22ed4013163</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>

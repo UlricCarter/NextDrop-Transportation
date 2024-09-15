@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request a Ride">fbfa8a61c32852101c38f22ed40131bb</sc_cat_item>
+        <sc_category display_value="Quick Links">91a9e0510a0a3c7401d20d86782fc9a0</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-11 23:36:34</sys_created_on>
+        <sys_id>f98cc6e1c32852101c38f22ed401315f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quick Links.Request a Ride</sys_name>
+        <sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope>
+        <sys_update_name>sc_cat_item_category_f98cc6e1c32852101c38f22ed401315f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-11 23:36:34</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</application>
+        <file_path/>
+        <instance_id>34e995c5db56311cebdd2a591396198c</instance_id>
+        <instance_name>dev201284</instance_name>
+        <name>sc_cat_item_category_f98cc6e1c32852101c38f22ed401315f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Request a Ride">fbfa8a61c32852101c38f22ed40131bb</sc_cat_item><sc_category display_value="Quick Links">91a9e0510a0a3c7401d20d86782fc9a0</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-11 23:36:34</sys_created_on><sys_id>f98cc6e1c32852101c38f22ed401315f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Quick Links.Request a Ride</sys_name><sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package><sys_policy/><sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope><sys_update_name>sc_cat_item_category_f98cc6e1c32852101c38f22ed401315f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-11 23:36:34</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1001876913</payload_hash>
+        <record_name>Quick Links.Request a Ride</record_name>
+        <reverted_from/>
+        <source>63f9e89ec36416101c38f22ed40131a0</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 00:00:03</sys_created_on>
+        <sys_id>3bf92c9ec36416101c38f22ed4013118</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191e387a47e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 00:00:03</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>3ff92c9ef0641610f815e79708a27917</update_guid>
+        <update_guid_history>3ff92c9ef0641610f815e79708a27917:-1001876913,f394ecd6ca6416108bb5b46de742b057:2117807835,2f63e496fe641610f85fdff04fc05da5:-1001876913,b98cc6e11b285210b39716e2d59c4e62:2117807835</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Quick Links.Request a Ride">bbf92c9ec36416101c38f22ed401311c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-12 00:00:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>bbc168203a7b4bc19c96234790dac2c9</sys_id>
+        <sys_metadata>f98cc6e1c32852101c38f22ed401315f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Quick Links.Request a Ride</sys_name>
+        <sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope>
+        <sys_scope_delete display_value="">a0b18b03c4cb41d683a61d72c8ae5384</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_f98cc6e1c32852101c38f22ed401315f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_f98cc6e1c32852101c38f22ed401315f">3bf92c9ec36416101c38f22ed4013118</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-12 00:00:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Next Drop</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Next Drop</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">da81893b8d020210d0ad51af4186635c</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-07 00:27:58</sys_created_on>
+        <sys_id>9c7087e0c32816101c38f22ed40131a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Next Drop</sys_name>
+        <sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope>
+        <sys_update_name>sys_wizard_answer_9c7087e0c32816101c38f22ed40131a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-07 00:27:58</sys_updated_on>
+        <table/>
+        <target_url>x_1490647_next_d_0_next_drop.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</application>
+        <file_path/>
+        <instance_id>34e995c5db56311cebdd2a591396198c</instance_id>
+        <instance_name>dev201284</instance_name>
+        <name>sys_wizard_answer_9c7087e0c32816101c38f22ed40131a4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Next Drop</answer><button_label/><dependent_value/><element/><name>Next Drop</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">da81893b8d020210d0ad51af4186635c</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-07 00:27:58</sys_created_on><sys_id>9c7087e0c32816101c38f22ed40131a4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Next Drop</sys_name><sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package><sys_policy/><sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope><sys_update_name>sys_wizard_answer_9c7087e0c32816101c38f22ed40131a4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-07 00:27:58</sys_updated_on><table/><target_url>x_1490647_next_d_0_next_drop.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1386508862</payload_hash>
+        <record_name>Next Drop</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 00:44:26</sys_created_on>
+        <sys_id>2af02e2dc36852101c38f22ed40131cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191d963901d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 00:44:26</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>e6f02e2d5d68521028b96eb3c175aecf</update_guid>
+        <update_guid_history>e6f02e2d5d68521028b96eb3c175aecf:-1386508862</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 00:44:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>e2329efbeacd4f8098effec9e73a4000</sys_id>
+        <sys_metadata>9c7087e0c32816101c38f22ed40131a4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Next Drop</sys_name>
+        <sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package>
+        <sys_parent display_value="Task">da81893b8d020210d0ad51af4186635c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope>
+        <sys_scope_delete display_value="">a0b18b03c4cb41d683a61d72c8ae5384</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_9c7087e0c32816101c38f22ed40131a4</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_9c7087e0c32816101c38f22ed40131a4">2af02e2dc36852101c38f22ed40131cf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 00:44:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

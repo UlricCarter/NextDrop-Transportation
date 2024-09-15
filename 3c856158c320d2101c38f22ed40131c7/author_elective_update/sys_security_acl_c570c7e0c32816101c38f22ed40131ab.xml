@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1490647_next_d_0_next_drop</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-07 00:28:02</sys_created_on>
+        <sys_id>c570c7e0c32816101c38f22ed40131ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1490647_next_d_0_next_drop</sys_name>
+        <sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope>
+        <sys_update_name>sys_security_acl_c570c7e0c32816101c38f22ed40131ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-07 00:28:02</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</application>
+        <file_path/>
+        <instance_id>34e995c5db56311cebdd2a591396198c</instance_id>
+        <instance_name>dev201284</instance_name>
+        <name>sys_security_acl_c570c7e0c32816101c38f22ed40131ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><local_or_existing>Local</local_or_existing><name>x_1490647_next_d_0_next_drop</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-07 00:28:02</sys_created_on><sys_id>c570c7e0c32816101c38f22ed40131ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1490647_next_d_0_next_drop</sys_name><sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package><sys_policy/><sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope><sys_update_name>sys_security_acl_c570c7e0c32816101c38f22ed40131ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-07 00:28:02</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1758895362</payload_hash>
+        <record_name>x_1490647_next_d_0_next_drop</record_name>
+        <reverted_from/>
+        <source>4cc5a558c320d2101c38f22ed40131cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-07 00:28:02</sys_created_on>
+        <sys_id>0d70c7e0c32816101c38f22ed40131ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191c9e177080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-07 00:28:02</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>4170c7e0b4281610d2e80787fb3228ad</update_guid>
+        <update_guid_history>4170c7e0b4281610d2e80787fb3228ad:-1758895362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-10 00:44:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>41ac7a7f30b84581b17c2eaf02e737b9</sys_id>
+        <sys_metadata>c570c7e0c32816101c38f22ed40131ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1490647_next_d_0_next_drop</sys_name>
+        <sys_package display_value="Next Drop Transportation" source="x_1490647_next_d_0">3c856158c320d2101c38f22ed40131c7</sys_package>
+        <sys_parent display_value="">d07087e0c32816101c38f22ed40131a6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Next Drop Transportation">3c856158c320d2101c38f22ed40131c7</sys_scope>
+        <sys_scope_delete display_value="">a0b18b03c4cb41d683a61d72c8ae5384</sys_scope_delete>
+        <sys_update_name>sys_security_acl_c570c7e0c32816101c38f22ed40131ab</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_c570c7e0c32816101c38f22ed40131ab">0d70c7e0c32816101c38f22ed40131ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-10 00:44:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

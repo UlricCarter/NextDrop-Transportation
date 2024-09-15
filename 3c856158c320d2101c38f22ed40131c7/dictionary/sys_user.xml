@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true,display_image=photo,global_search_config_handler=UserConfig,ih_process_sync_enabled=true,iterativeDelete=true,kagami_csindex_enabled=true,metadata_link_exempt=true,ref_ac_columns=email,ref_ac_columns_search=true,ref_ac_order_by=name,ref_auto_completer=AJAXTableCompleter,slushbucket_omit_embedded=true" create_roles="user_admin" db_object_id="8ab00d338d020210d0ad51af41866360" defaultsort="-1" dynamic_creation_script="dynamicUserCreation(current, value);" label="User" max_length="40" name="sys_user" text_index="true" type="collection">
+        <element attributes="encode_utf8=false" label="Address" max_length="32" name="x_1490647_next_d_0_address" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Drives for Terminal" max_length="40" name="x_1490647_next_d_0_drives_for_terminal" type="string">
+            <choice>
+                <element inactive_on_update="false" label="A" sequence="0" value="A"/>
+                <element inactive_on_update="false" label="B" sequence="1" value="B"/>
+                <element inactive_on_update="false" label="C" sequence="2" value="C"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Position Type" max_length="40" name="x_1490647_next_d_0_position_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Captain" sequence="0" value="Captain"/>
+                <element inactive="true" inactive_on_update="true" label="Pilot" sequence="0" value="Pilot"/>
+                <element inactive_on_update="false" label="First Officer" sequence="1" value="First Officer"/>
+                <element inactive_on_update="false" label="Flight Engineer" sequence="2" value="Flight Engineer"/>
+                <element inactive_on_update="false" label="Flight Attendant" sequence="3" value="Flight Attendant"/>
+                <element inactive_on_update="false" label="Inflight Chef" sequence="4" value="Inflight Chef"/>
+                <element inactive_on_update="false" label="NDT Driver" sequence="5" value="NDT Driver"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Sub Terminal" max_length="40" name="x_1490647_next_d_0_sub_terminal" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Departure" sequence="0" value="Departure"/>
+                <element inactive_on_update="false" label="Arrival" sequence="1" value="Arrival"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Terminal" max_length="40" name="x_1490647_next_d_0_terminal" type="string">
+            <choice>
+                <element inactive_on_update="false" label="A" sequence="0" value="A"/>
+                <element inactive_on_update="false" label="B" sequence="1" value="B"/>
+                <element inactive_on_update="false" label="C" sequence="2" value="C"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" dependent="x_1490647_next_d_0_terminal" dependent_on_field="x_1490647_next_d_0_terminal" label="Short Description" max_length="40" name="x_1490647_next_d_0_u_string_1" type="string" use_dependent_field="true"/>
+        <index name="index">
+            <element name="x_1490647_next_d_0_address"/>
+        </index>
+    </element>
+</database>
